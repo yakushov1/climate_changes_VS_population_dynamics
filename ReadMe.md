@@ -63,8 +63,8 @@ Climatic data for modelling. Contains information about: <br />
 - `numbers_of_days_with_bad_snow.csv` <br />
 The number of days with unfavorable snow cover (details in the manuscript). <br />
  --- `count` is the number of such days <br />
- --- `catch` is the type of dynamics (cyclical or non-cyclical). The type of dynamics for a particular year has been determined in  [previous published article](https://onlinelibrary.wiley.com/doi/10.1111/1749-4877.12770).
-<br /> 
+ --- `catch` is the type of dynamics (cyclical or non-cyclical). The type of dynamics for a particular year has been determined in  [previous published article](https://onlinelibrary.wiley.com/doi/10.1111/1749-4877.12770). <br /> 
+
 - `survival_rate_higher_than_the_median.csv`  <br /> 
 A list of years for 4 dominant species when winter mortality was higher than the median.
 
