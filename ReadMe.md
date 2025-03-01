@@ -58,8 +58,8 @@ Climatic data for modelling. Contains information about: <br />
  --- `count` - the number of days with unfavorable snow cover (for details, see the manuscript) <br />
  --- `Tavg_X` or `Sn_x`   average temperature or snow depth for month X <br />
  --- `Melt_freeze` - the number of transitions of average daily temperatures through 0 degrees (for details, see the manuscript) <br />
- --- `Autumn or Spring` - the duration of "autumn" and "spring", calculated by the steady transition of average daily temperatures through 0. The details are also in the manuscript.
-<br />
+ --- `Autumn or Spring` - the duration of "autumn" and "spring", calculated by the steady transition of average daily temperatures through 0. The details are also in the manuscript. <br />
+
 - `numbers_of_days_with_bad_snow.csv` <br />
 The number of days with unfavorable snow cover (details in the manuscript). <br />
  --- `count` is the number of such days <br />
